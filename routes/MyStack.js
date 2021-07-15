@@ -17,7 +17,7 @@ const AboutStack = () => {
     return (
         <Stack.Navigator
             screenOptions={screenOptionStyle}>
-            <Stack.Screen name="About" component={About}
+            <Stack.Screen name="Done" component={About}
             />
         </Stack.Navigator>
     )
